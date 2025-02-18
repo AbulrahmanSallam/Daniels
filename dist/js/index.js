@@ -1,0 +1,1 @@
+import{Counter as e}from"./counter.module.js";import{Fire as r}from"./Fire.module.js";import{Validation as o}from"./validation.module.js";let fire=new r,counter=new e([100,200,300,400],"achievement",["counter1","counter2","counter3","counter4"]),validation=new o("form",["name","email","message"],["nameError","emailError","messageError"]);

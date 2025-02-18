@@ -1,0 +1,28 @@
+{
+  "name": "daniels",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulrahmanSallam/Daniels.git"
+  },
+  "keywords": [
+    "daniels",
+    "portfolio"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdulrahmanSallam/Daniels/issues"
+  },
+  "homepage": "https://github.com/AbdulrahmanSallam/Daniels#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "bootstrap": "^5.3.3",
+    "countup.js": "^2.8.0"
+  }
+}

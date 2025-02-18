@@ -1,0 +1,1 @@
+export class Fire{constructor(){AOS.init(),new Typed("#typed",{strings:["Abdulrahman","Developer"],typeSpeed:60,loop:!0,backSpeed:60,smartBackspace:!1})}}
